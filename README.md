@@ -1,6 +1,6 @@
 # Wikipedia
 
-If we want to study user interactions online, a good starting point would be collecting a large number of interactions that follow this scheme:
+If we want to study user online interactions, a good starting point would be collecting a large number of interactions that follow this scheme:
 
     UserA: post
     UserB: reaction to post
