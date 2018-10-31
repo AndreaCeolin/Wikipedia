@@ -14,13 +14,13 @@ First, download all the comments_articles_year folders on a 'wikimedia' folder. 
 
 If you run ```wiki_crawler.py```, the program will start extracting A-B-A triplets. The name of the folders which are explored are printed. Once the run is completed, you will have a file called ```filtered_wiki.tsv``` in the workspace with the following format:
 
-    Time UserA1 Topic Comment
-    Time UserB1 Topic Comment
-    Time UserA1 Topic Comment
-    Time UserA2 Topic Comment
-    Time UserB2 Topic Comment
-    Time UserA2 Topic Comment
-    Time UserA3 Topic Comment
+    Time UserA1 Topic1 Comment
+    Time UserB1 Topic1 Comment
+    Time UserA1 Topic1 Comment
+    Time UserA2 Topic2 Comment
+    Time UserB2 Topic2 Comment
+    Time UserA2 Topic2 Comment
+    Time UserA3 Topic3 Comment
     ....
   
 The file will contain a total of 167680 triplets. Now you can run your analysis and try to predict A's behavioral change.
