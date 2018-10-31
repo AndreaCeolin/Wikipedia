@@ -23,8 +23,11 @@ If you run ```wiki_crawler.py```, the program will start extracting A-B-A triple
     Time UserA3 Topic Comment
     ....
   
-The file will contain a total of 167680 triplets. Now you can run your analysis.
+The file will contain a total of 167680 triplets. Now you can run your analysis and try to predict A's behavioral change.
+
 Enjoy it!
+
+
 
   
   
