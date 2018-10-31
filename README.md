@@ -6,7 +6,7 @@ If we want to study user interactions online, a good starting point would be col
     UserB: reaction to post
     UserA: reaction to B's reaction
 
-If we run a sentiment analysis, it will be clear whether A is happier or not with B's comment. 
+If we run a sentiment analysis, it will be clear whether A is happier or not after B's comment. 
 In this project, we will collect a list of triplets of this kind using the [Wikipedia Talk Corpus](https://figshare.com/articles/Wikipedia_Talk_Corpus/4264973). This corpus contains the history of the comments made by users on Wikipedia articles from 2001 to 2015. 
 
 First, download all the comments_articles_year folders on a 'wikimedia' folder. Then, download ```wiki_crawler.py``` in the same place.
