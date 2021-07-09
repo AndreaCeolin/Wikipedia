@@ -27,7 +27,7 @@ If you run ```wiki_crawler.py```, the program will start extracting A-B-A triple
   
 The file will contain a total of 167680 triplets. Now you can run your analysis and try to predict A's behavioral change.
 
-Enjoy it!
+Additional material can be found [here](https://github.com/kj2013/WikiTalkEdit/).
 
 
 
